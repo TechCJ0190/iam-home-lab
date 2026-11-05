@@ -1,2 +1,2 @@
 # iam-home-lab
-Learning IAM by building and covering the four pillars, (AAAA) Admin, Authentication, Authorization and Audit.
+Learning IAM by building and covering the four pillars, (AAAA) Authentication, Authorization, Administration, and Audit.
