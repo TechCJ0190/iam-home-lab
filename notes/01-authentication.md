@@ -3,3 +3,4 @@ Created Auth0 SPA app, set callback to http://localhost:3000, successfully authe
 
 Enabled Authenticator App MFA in Auth0 (Security → Multi-factor Auth).  
 Second login required TOTP code from authenticator app; code accepted and redirected to localhost:3000 (connection refused expected).
+![MFA success](../mfa-success.png)
